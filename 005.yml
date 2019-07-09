@@ -1,0 +1,10 @@
+---
+question: I record di attivazione
+answers:
+- Sono necessari solo in presenza di funzioni di ordine superiore
+- Sono allocati dinamicamente solo in caso di scope dinamico
+- Nessuna delle altre risposte
+- Devono essere esplicitamente allocati e deallocati dal codice del programma che
+  li usa
+- Sono allocati solo nello heap
+correct: C
