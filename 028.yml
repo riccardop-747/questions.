@@ -1,0 +1,10 @@
+---
+question: I puntatori di catena dinamica contenuti in un record di attivazione
+answers:
+- Nessuna delle altre risposte
+- Non esistono "puntatori di catena dinamica" in un record di attivazione
+- Servono per identificare la zona di memoria in cui è memorizzata una variabile locale
+- Devono essere esplicitamente allocati e deallocati dal codice del programma che
+  li usa
+- Servono per accedere alle variabili dinamiche
+correct: A

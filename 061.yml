@@ -1,0 +1,10 @@
+---
+question: In caso di scope dinamico
+answers:
+- Il valore assegnato ad una variabile non può essere modificato
+- Non è possibile annidare più blocchi di istruzioni
+- Nessuna delle altre risposte
+- I legami fra nomi ed oggetto possono essere determinati solo a tempo di esecuzione
+- I legami fra nomi ed oggetto possono essere determinati semplicemente leggendo il
+  testo di un programma
+correct: D

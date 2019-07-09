@@ -1,0 +1,10 @@
+---
+question: La ricorsione in coda
+answers:
+- Permette di risolvere il problema della ricorsione infinita
+- Richiede di non scrivere mai la chiamata ricorsiva come ultimo statement di una
+  subroutine
+- Richiede di non ritornare mai direttamente il valore ritornato da una chiamata ricorsiva
+- Nessuna delle altre risposte
+- Permette di evitare un'eccessiva crescita della dimensione dello stack
+correct: E

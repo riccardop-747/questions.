@@ -1,0 +1,10 @@
+---
+question: L’ambiente non locale di un blocco di codice è
+answers:
+- Nessuna delle altre risposte
+- L’insieme dei valori che le variabili non locali possono assumere
+- L’insieme dei binding creati all’interno del blocco di codice
+- L’insieme dei binding visibili dentro al blocco, ma non direttamente definiti in
+  esso
+- Il subset dell’ambiente non visibile dentro al blocco di codice
+correct: D

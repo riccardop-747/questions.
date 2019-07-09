@@ -1,0 +1,10 @@
+---
+question: "Beta\f-riducendo (λn.λf.λx.f((nf)x))(λf.λx.f(f(f(fx)))) si ottiene "
+answers:
+- Nessuna delle altre risposte
+- L’espressione è irriducibile
+- La riduzione non termina
+- λf.λx.fffffx
+- fx
+- λf.λx.f(f(f(f(fx))))
+correct: F

@@ -1,0 +1,11 @@
+---
+question: Il costrutto for dei linguaggi C, C++ e Java non è un costrutto di iterazione
+  determinata perchè
+answers:
+- L’esistenza di costrutti di iterazione derminata implicherebbe che C, C++ e Java
+  non sono Turing-completi
+- Nessuna delle altre risposte
+- Dall’interno del ciclo è possibile modificare il valore del contatore
+- Non esistono costrutti di iterazione determinata
+- C, C++ e Java sono linguaggi imperativi
+correct: C

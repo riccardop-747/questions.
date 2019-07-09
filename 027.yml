@@ -1,0 +1,9 @@
+---
+question: Beta-riducendo (λa.((aλb.λc.c)λd.λe.d))(λf.λg.f) si ottiene
+answers:
+- λb.λc.c
+- Nessuna delle altre risposte
+- La riduzione non termina
+- c
+- λb.λc.b
+correct: A

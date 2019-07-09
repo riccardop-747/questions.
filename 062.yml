@@ -1,0 +1,9 @@
+---
+question: Beta-riducendo (λa.aab)((λa.aab)(λa.(λb.ba)c)) si ottiene
+answers:
+- La riduzione non termina
+- aab
+- λa.aab
+- ccb(ccb)c
+- Nessuna delle altre risposte
+correct: E

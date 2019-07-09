@@ -1,0 +1,9 @@
+---
+question: Beta-riducendo (λn.λf.λx.f((nf)x))(λf.λx.f(f(f(fx)))) si ottiene
+answers:
+- La riduzione non termina
+- fx
+- λf.λx.fffffx
+- Nessuna delle altre risposte
+- λf.λx.f(f(f(fx))))
+correct: C

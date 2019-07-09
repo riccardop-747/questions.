@@ -1,0 +1,12 @@
+---
+question: Si può dire che una macchina astratta che capisce il linguaggio Java non
+  sia implementata in modo puramente compilativo perché
+answers:
+- Non esistendo un vero e proprio runtime per Java, non si può parlare di compilazione
+  pura
+- La macchina virtuale di Java (JVM) deve comunque essere compilata
+- Una macchina astratta che capisca un linguaggio di alto livello come Java non è
+  mai implementabile con un compilatore
+- Non esistono compilatori Java
+- Nessuna delle altre risposte
+correct: A

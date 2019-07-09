@@ -1,0 +1,10 @@
+---
+question: Beta-riducendo (λn.λm.λf.λx.(nf)((mf)x))(λf.λx.fx)(λf.λx.x) si ottiene
+answers:
+- Nessuna delle altre risposte
+- x
+- λf.λx.ffffffx
+- λf.λx.fx
+- fx
+- λf.λx.ffffx
+correct: D

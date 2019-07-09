@@ -1,0 +1,11 @@
+---
+question: Se gli array sono memorizzati per righe ed int a[100][100] è un un array
+  multidimensionale di interi (si assuma che la dimensione di un intero sia 4 byte)
+  con a[0][0] che ha indirizzo 0x1000, qual è l’indirizzo di a[5][10]?
+answers:
+- 0x100F
+- Nessuna delle altre risposte
+- 0x13ED
+- 0x11FE
+- 0x1510
+correct: B

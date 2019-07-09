@@ -1,0 +1,9 @@
+---
+question: Beta riducendo (λa.aab)((λa.aab)(λa.(λb.ba)c))
+answers:
+- Nessuna delle altre risposte
+- ccb(ccb)c
+- λa.aab
+- La riduzione non termina
+- aab
+correct: A

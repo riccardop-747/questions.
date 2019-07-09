@@ -1,0 +1,9 @@
+---
+question: "Beta\f-riducendo (λd.((λa.abc)(bc)))(λy.xyz) si ottiene"
+answers:
+- La riduzione non termina
+- Nessuna delle altre risposte
+- λb.bba
+- λa.abc
+- bcbc
+correct: E

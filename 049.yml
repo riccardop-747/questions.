@@ -1,0 +1,11 @@
+---
+question: Un garbage collector
+answers:
+- Può essere implementato tramite la tecnica detta “mark and sweep”, che riesce sempre
+  ad identificare tutta la memoria allocata dinamicamente ma non più utilizzata
+- Richiede un’implementazione complessa, usando la tecnica dei tombstone (pietre tombali)
+- E’ implementabile solo in linguaggi di programmazione funzionali
+- E’ implementabile tramite la tecnica di lucchetti e chiavi, che però può causare
+  dei memory leak
+- Nessuna delle altre risposte
+correct: A

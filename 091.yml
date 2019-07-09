@@ -1,0 +1,30 @@
+---
+question: |-
+  int x, y, z;
+  void minni(void) {
+      x = 4;
+      y = 8;
+  }
+  void paperino(void) {
+      int y;
+      minni();
+      y = 1;
+      z = 666;
+  }
+  int topolino(void) {
+      int x;
+      x = 5;
+      y = 15;
+      z = x + y;
+      paperino();
+      return z - y - x;
+  }
+
+  Dato il frammento di programma (espresso in pseudo-codice), qual è il valore di ritorno di topolino(), assumendo scope statico?
+answers:
+- -3
+- 0
+- 14
+- Non è possibile dirlo
+- Nessuna delle altre risposte
+correct: E

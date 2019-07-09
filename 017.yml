@@ -1,0 +1,9 @@
+---
+question: Una Macchina Astratta ML (LO) è
+answers:
+- E’ un modo per descrivere un interprete
+- Nessuna delle altre risposte
+- E’ implementabile solo basandosi sull’architettura di Von Neumann
+- E’ un modo per descrivere un compilatore
+- E’ associata ad un proprio linguaggio macchina L, che è in grado di capire ed eseguire
+correct: E

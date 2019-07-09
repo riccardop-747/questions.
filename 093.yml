@@ -1,0 +1,31 @@
+---
+question: |-
+  int a, b, c;
+  void pippo(void) {
+      int a;
+      a = 6;
+      b = 5;
+  }
+  void pluto(void) {
+      int c;
+      int b;
+      pippo();
+      c = 3;
+      a = 4;
+  }
+  void topolino(void) {
+      int a;
+      a = 1;
+      b = 10;
+      pluto();
+      c = a + b;
+  }
+
+  Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope statico?
+answers:
+- Nessuna delle altre risposte
+- 6
+- Non è possibile dirlo
+- 14
+- 3
+correct: B

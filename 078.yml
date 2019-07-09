@@ -1,0 +1,23 @@
+---
+question: |-
+  int b = 666;
+  int pippo(int x) {
+      x = 666;
+      b = 1;
+      return x / 2;
+  }
+  int pluto(void) {
+      int a, c;
+      a = b / 333;
+      c = pippo(a);
+      return a + c;
+  }
+
+  Si consideri lo pseudo-codice. Qual è il valore di ritorno di pluto() se i parametri sono passati per valore?
+answers:
+- Nessuna delle altre risposte
+- 1
+- 3
+- 0
+- Dipende dal tipo di scope (statico o dinamico) utilizzato
+correct: A

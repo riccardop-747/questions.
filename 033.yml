@@ -1,0 +1,10 @@
+---
+question: La frammentazione esterna causa
+answers:
+- Uno spreco di memoria
+- Nessuna delle altre risposte
+- L'impossibilità di allocare grandi blocchi di memoria anche se la memoria libera
+  totale è suffciente
+- Un rallentamento rilevante nelle operazioni di allocazione della memoria
+- Il funzionamento non corretto di programmi che allocano memoria dinamicamente
+correct: C

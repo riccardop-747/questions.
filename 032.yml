@@ -1,0 +1,10 @@
+---
+question: I dangling pointer
+answers:
+- Sono identificabili tramite tecniche di reference counting (contatore dei riferimenti)
+- Sono un problema solo per il linguaggio Java
+- Sono identificabili tramite la tecnica detta "mark and sweep"
+- Non possono essere identificati con certezza, ma questo non è un problema perché
+  comportano solo un piccolo spreco di memoria
+- Nessuna delle altre risposte
+correct: C

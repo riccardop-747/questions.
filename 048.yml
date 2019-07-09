@@ -1,0 +1,10 @@
+---
+question: In caso di scope statico
+answers:
+- Non è possibile annidare più blocchi di istruzioni
+- I legami fra nomi ed oggetto possono essere determinati solo a tempo di esecuzione
+- Il valore assegnato ad una variabile non può essere modificato
+- I legami fra nomi ed oggetto possono essere determinati semplicemente leggendo il
+  testo di un programma
+- Nessuna delle altre risposte
+correct: D

@@ -1,0 +1,11 @@
+---
+question: L’ambiente (o environment) è
+answers:
+- Nessuna delle altre risposte
+- Un insieme di associazioni (nome, valore) definite staticamente durante lo sviluppo
+  di un programma
+- L’insieme delle associazioni (variabile, valore) esistenti in uno specifico punto
+  del programma ed in uno specifico momento durante l’esecuzione di un programma
+- L’insieme dei valori che una variabile assume durante l’esecuzione di un programma
+- Una lista di coppie (nome, tipo) che permette di accedere alle variabili di un programma
+correct: A

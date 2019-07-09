@@ -1,0 +1,10 @@
+---
+question: Un entità denotabile è
+answers:
+- Nessuna delle altre risposte
+- Un entità che può essere generata come risultato da un espressione complessa o da
+  una Funzione
+- Una generica entità a cui può essere dato un nome
+- Un'entità che ancora non compare nell'ambiente
+- Un'entità che può essere memorizzata
+correct: C

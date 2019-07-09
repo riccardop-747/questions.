@@ -1,0 +1,11 @@
+---
+question: Se gli array sono memorizzati per righe e char a[100][100] è un array
+  multidimensionale di caratteri con a[0][0] che ha indirizzo 0x2000, qual è l’indirizzo
+  di a[5][10]?
+answers:
+- 0x200F
+- 0x21FE
+- Nessuna delle altre risposte
+- 0x23ED
+- 0x2510
+correct: B

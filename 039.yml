@@ -1,0 +1,10 @@
+---
+question: Beta-riducendo (λn.λf.λx.f((nf)x))(λf.λx.ffffx) si ottiene
+answers:
+- Nessuna delle altre risposte
+- λf.λx.ffffffx
+- La riduzione non termina
+- λf.λx.fffffx
+- fx
+- L’espressione è irriducibile
+correct: D

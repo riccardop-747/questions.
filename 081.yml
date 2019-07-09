@@ -1,0 +1,28 @@
+---
+question: |-
+  int i = 0;
+  int x[10];
+  int f2(int z) {
+      i = i / 2;
+      return z - i;
+  }
+  int f1(void) {
+      int y;
+      i = 4;
+      x[0] = 1;
+      x[1] = 0;
+      x[2] = 2;
+      x[3] = 4;
+      x[4] = 6;
+      y = f2(x[i]);
+      return y + i;
+  }
+
+  Si consideri lo pseudo-codice. Qual è il valore di ritorno di f1() se i parametri sono passati per valore?
+answers:
+- 0
+- 2
+- Dipende dal tipo di scope (statico o dinamico) utilizzato
+- 4
+- Nessuna delle altre risposte
+correct: E

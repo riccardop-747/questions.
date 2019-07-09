@@ -1,0 +1,10 @@
+---
+question: La valutazione con corto circuito del predicato "A && B" (dove "&&" rappresenta
+  un "AND" logico)
+answers:
+- Stabilisce che se "B" è vero allora "A" non viene valutato
+- Nessuna delle altre risposte
+- Stabilisce che se "A" è falso allora "B" non viene valutato
+- Crea un non-determinismo nell'ordine della valutazione di "A" e "B"
+- Stabilisce che "A" e "B" devono essere valutati in parallelo
+correct: C

@@ -1,0 +1,9 @@
+---
+question: Beta-riducendo (λx.xy)(λz.zx)(λz.zx) si ottiene
+answers:
+- Nessuna delle altre risposte
+- xyz
+- (λx.xy)yx
+- yx(λz.zx)
+- La riduzione non termina
+correct: D

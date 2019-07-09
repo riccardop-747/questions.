@@ -1,0 +1,19 @@
+---
+question: |-
+  int c = 2;
+  int pippo(int a) {
+      c = c + 2;
+      return a * 2;
+  }
+  int pluto(void) {
+      return pippo(c + 1);
+  }
+
+  Si consideri lo pseudo-codice. Qual è il valore di ritorno di pluto() se i parametri sono passati per valore?
+answers:
+- 10
+- Dipende dal tipo di scope (statico o dinamico) utilizzato
+- Nessuna delle altre risposte
+- 6
+- Non è possibile passare c + 1 per valore
+correct: D

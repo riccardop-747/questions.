@@ -1,0 +1,30 @@
+---
+question: |-
+  int x, y, z;
+  void f3(void) {
+      x = 0;
+      y = 5;
+  }
+  void f2(void) {
+      int y;
+      f3();
+      y = 0;
+      z = 10;
+  }
+  int f1(void) {
+      int x;
+      x = -5;
+      y = 10;
+      z = x + y;
+      f2();
+      return z - y - x;
+  }
+
+  Dato il frammento di programma (espresso in pseudo-codice), qual è il valore di ritorno di f1(), assumendo scope statico?
+answers:
+- 5
+- Nessuna delle altre risposte
+- Non è possibile dirlo
+- 0
+- -5
+correct: B

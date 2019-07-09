@@ -1,0 +1,11 @@
+---
+question: Un oggetto denotabile (intendendo per “oggetto” una generica entità che
+  può essere una variabile, una funzione, etc...) è
+answers:
+- Un “oggetto” che può essere memorizzato in una variabile
+- Un “oggetto” per cui compare un binding nell’ambiente
+- Nessuna delle altre risposte
+- Un “oggetto” che ancora non compare nell’ambiente
+- Un “oggetto” che può essere generato come risultato da un’espressione complessa
+  o da una funzione
+correct: C

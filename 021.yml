@@ -1,0 +1,11 @@
+---
+question: Se gli array sono memorizzati per colonne e char a[100][100][100] è un
+  un array multidimensionale di caratteri con a[0][0] che ha indirizzo 0x1000, qual
+  è l’indirizzo di a[5][5][10]?
+answers:
+- Nessuna delle altre risposte
+- 0x18899
+- 0x51510
+- 0xD54E
+- 0x19899
+correct: E

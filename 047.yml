@@ -1,0 +1,13 @@
+---
+question: Un interprete di un linguaggio L scritto in un linguaggio LO è
+answers:
+- Nessuna delle altre risposte
+- L'implementazione di una macchina astratta scritta nel linguaggio LO, che capisce
+  programmi scritti nel linguaggio L
+- Una implementazione di macchine astratte indipendente dalla macchina fisica
+- Un programma scritto nel linguaggio LO che riceve come ingresso un programma PL
+  (espresso nel linguaggio L) ed il suo input I generando lo stesso output che genera
+  PL con input I
+- Un programma che trasforma un programma PL (espresso nel linguaggio L) in un programma
+  PLO (espresso nel linguaggio LO) tale che per ogni input I si ha PL(I) = PLO(I)
+correct: D

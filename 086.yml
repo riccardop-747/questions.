@@ -1,0 +1,15 @@
+---
+question: |-
+  int mistero(int a, int b) {
+      if (b == 0) return a;
+      return mistero(a / 2, b - 1);
+  }
+
+  La funzione implementata dallo pseudo-codice
+answers:
+- Può causare una crescita incontrollata dello stack
+- Causa sempre ricorsione infinita
+- Nessuna delle altre risposte
+- Non può essere implementata per via iterativa
+- Non usa ricorsione in coda
+correct: C

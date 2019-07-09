@@ -1,0 +1,9 @@
+---
+question: I puntatori di catena dinamica contenuti in un record di attivazione
+answers:
+- Collegano una lista di zone di memoria gestita dinamicamente
+- Servono per accedere alle variabili dinamiche
+- Non esistono “puntatori di catena dinamica” in un record di attivazione
+- Nessuna delle altre risposte
+- Permettono, a partire da un RdA, di trovare il RdA precedente sullo stack
+correct: E

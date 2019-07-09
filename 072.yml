@@ -1,0 +1,11 @@
+---
+question: I record d'attivazione
+answers:
+- Devono essere esplicitamente allocati e deallocati dal codice del programma che
+  li usa
+- Possono essere allocati sia sullo stack sia sullo heap (in caso, per esempio, di
+  funzioni di ordine superiore)
+- Sono necessari solo in presenza di funzioni di ordine superiore
+- Solo allocati solo sullo heap
+- Nessuna delle altre risposte
+correct: B

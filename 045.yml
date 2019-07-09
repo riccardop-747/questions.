@@ -1,0 +1,13 @@
+---
+question: La memoria gestita staticamente
+answers:
+- E’ allocata esplicitamente dal programma a tempo di esecuzione, ma una volta allocata
+  è staticamente legata al programma e non può essere liberata fino alla sua terminazione
+- E’ allocata prima dell’esecuzione del programma. Le entità allocate staticamente
+  possono essere deallocate durante l’esecuzione del programma, per liberare memoria
+- E’ allocata dal compilatore prima dell’esecuzione del programma. Le entità allocate
+  staticamente in memoria risiedono in una zona fissa di memoria durante tutta l’esecuzione
+  del programma
+- E’ una memoria a sola lettura
+- Nessuna delle altre risposte
+correct: C

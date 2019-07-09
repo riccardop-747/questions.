@@ -1,0 +1,9 @@
+---
+question: Il passaggio di parametri per nome
+answers:
+- Permette di passare valori solo dal chiamante al chiamato (e non viceversa)
+- Nessuna delle altre risposte
+- E’ implementabile passando una chiusura come parametro
+- Ha un valore solo teorico e non è implementabile in pratica
+- Permette la cattura di variabili libere in modo da effetti non deterministici
+correct: C

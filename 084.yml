@@ -1,0 +1,15 @@
+---
+question: |-
+  int somma(int a, int b) {
+      if (a == 0) return b;
+      return somma(a - 1, b) + 1;
+  }
+
+  Funzione implementata dallo pseudo-codice
+answers:
+- Nessuna delle altre risposte
+- Non può essere implementata per via iterativa
+- Causa sempre ricorsione infinita
+- Usa ricorsione in coda
+- Non usa ricorsione in coda
+correct: E

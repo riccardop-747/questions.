@@ -1,0 +1,10 @@
+---
+question: Nella sostituzione (λa.abc)[arrg/c]
+answers:
+- E’ necessario applicare una Alfa-equivalenza per evitare una cattura di variabile
+- Viene catturata la variabile c
+- Si rischia di catturare la variabile “a” ed è necessario applicare Beta-equivalenza
+  per risolvere in problema
+- Non c’è alcuna cattura di variabile
+- Nessuna delle altre risposte
+correct: A

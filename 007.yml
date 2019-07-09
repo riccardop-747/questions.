@@ -1,0 +1,10 @@
+---
+question: Il costrutto for dei linguaggi C, C++ e Java
+answers:
+- Non è un costrutto di iterazione determinata
+- E' necessario a tali linguaggi per implementare qualsiasi tipo di algoritmo
+- Nessuna delle altre risposte
+- E' un costrutto di iterazione determinata
+- Permette di sapere in anticipo quante volte il ciclo verrà ripetuto (indipendentemente
+  dal corpo del ciclo)
+correct: A

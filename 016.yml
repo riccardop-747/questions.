@@ -1,0 +1,10 @@
+---
+question: Il fenomeno della cattura di variabili
+answers:
+- Nessuna delle altre risposte
+- Non può essere evitato in alcun modo
+- Fa si che dopo una sostituzione una variabile libera diventi legata (per esempio
+  da un’astrazione λx.)
+- Comporta la “sparizione” di variabili libere durante un’astrazione funzione
+- E’ dovuto all’assenza di un ambiente non locale
+correct: C

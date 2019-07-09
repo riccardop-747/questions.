@@ -1,0 +1,10 @@
+---
+question: In assenza di ambiente non locale
+answers:
+- Per implementare funzioni definite ricorsivamente è necessario utilizzare un fixed
+  point combinator
+- Non si possono implementare algoritmi ricorsivi
+- Nessuna delle altre risposte
+- Non si possono implementare algoritmi iterativi o ricorsivi
+- Non si possono implementare algoritmi iterativi
+correct: C

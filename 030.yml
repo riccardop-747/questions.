@@ -1,0 +1,9 @@
+---
+question: L’allocazione dinamica della memoria
+answers:
+- Nessuna delle altre risposte
+- E’ sempre effettuata solo dal compilatore o dall’interprete
+- Può essere fatta solo dallo heap
+- Può essere fatta solo dallo stack
+- Può essere fatta sia dallo stack che dallo heap
+correct: E

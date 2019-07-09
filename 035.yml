@@ -1,0 +1,9 @@
+---
+question: Se l'ambiente di una funzione non contiene il nome della funzione stessa
+answers:
+- Nessuna delle altre risposte
+- Non è possibile per la funzione invocarsi ricorsivamente
+- Non ci sono particolari conseguenze
+- La funzione non può usare scope dinamico
+- La funzione non può usare scope statico
+correct: B

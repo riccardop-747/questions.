@@ -1,0 +1,11 @@
+---
+question: Se gli array sono memorizzati per colonne ed short int a[100][100] è un
+  array multidimensionale di interi corti (si assuma che la dimensione di uno short
+  int sia 2 byte) con a[0][0] che ha indirizzo 0x4100, qual è l'indirizzo di a[5][10]?
+answers:
+- 0x48DA
+- 0x4510
+- Nessuna delle altre risposte
+- 0x47DA
+- 0x41FE
+correct: A

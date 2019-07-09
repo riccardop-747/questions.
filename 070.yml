@@ -1,0 +1,10 @@
+---
+question: Un entità denotabile può avere un tempo di vita più lungo di quello delle
+  associazioni (fra l'entità ed identificatori) che lo riferiscono
+answers:
+- Nessuna delle altre risposte
+- Se l'entità è allocata dinamicamente dallo heap in una subroutine
+- Mai
+- Se l'entità è allocata dinamicamente dallo stack in una subroutine
+- Se si usa scope dinamico
+correct: B
